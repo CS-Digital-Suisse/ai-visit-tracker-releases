@@ -1,9 +1,9 @@
 {
-  "version": "1.2.5",
-  "package": "https://raw.githubusercontent.com/CS-Digital-Suisse/ai-visit-tracker-releases/main/ai-visit-tracker-1.2.5.zip",
+  "version": "1.2.6",
+  "package": "https://raw.githubusercontent.com/CS-Digital-Suisse/ai-visit-tracker-releases/main/ai-visit-tracker-1.2.6.zip",
   "url": "https://github.com/CS-Digital-Suisse/ai-visit-tracker-releases",
   "requires": "5.6",
   "tested": "6.7",
   "requires_php": "7.4",
-  "last_updated": "2026-06-29"
+  "last_updated": "2026-07-03"
 }
